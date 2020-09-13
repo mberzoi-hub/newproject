@@ -1,0 +1,49 @@
+body {
+  width: 400px;
+  height: 450px;
+  padding: 20px;
+  margin: 20px;
+  background-color: #00BFFF;
+  border: 1px solid blue;
+  border-radius: 25px;
+}
+
+.header {
+  color: #FFFFFF;
+  text-align: left;
+  font-size: 17px;
+}
+
+  .header_title {
+    color: white;
+    font-size: 20px;
+    text-align: left;
+  }
+
+  .header_title2 {
+   text-transform: uppercase;
+  }
+
+  .main {
+    margin: 20px;
+  }
+
+ .main_description {
+   color: #000;
+ }
+
+ .main_description2 {
+   color: #000;
+ }
+
+ .round {
+   width: 150px;
+   height: 150px;
+   border-width: 10px;
+   border-style: outset;
+   border-color: #000;
+    }
+
+    .footer {
+      text-align: center;
+    }
